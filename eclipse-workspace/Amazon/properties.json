@@ -1,0 +1,15 @@
+{
+
+  "chrome" : "C:\\Users\\Sudha\\Pictures\\selenium\\seleniumProject\\chromedriver.exe",
+  
+  "driver":  "webdriver.chrome.driver",
+  
+  "HomeapageSearchboxTitle" : "Amazon.in: laptop - Laptops: Computers & Accessories",
+  
+  "TodaysDealPageTitle":"Amazon.in Today's Deals: Great Savings. Every Day.",
+  
+  "amazonPayTitle" : "Amazon.in: Amazon Pay"
+  
+  
+  
+}
